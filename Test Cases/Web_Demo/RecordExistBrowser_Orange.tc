@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecordExistBrowser_Orange</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>029ade97-e3c9-461f-8638-56e9fd9d9b10</testCaseGuid>
+</TestCaseEntity>
